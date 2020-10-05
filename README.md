@@ -1,1 +1,1 @@
-# Supervised-ML-Predicting-Score-through-Studing-Hours
+# Supervised-ML-Predicting-Score-through-Studied-Hours
